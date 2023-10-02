@@ -1,0 +1,4 @@
+-  Hi, I’m @U-MAd
+-  I’m interested in linux
+-  I’m currently learning using linuxmint
+-  How to reach me marcusvirtanen4@gmail.com
